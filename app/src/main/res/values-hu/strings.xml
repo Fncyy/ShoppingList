@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bevásárló</string>
+    <string name="title_activity_list">Bevásárlás segítő</string>
+    <string name="name">Név</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Mégse</string>
+    <string name="detail_unselect_all">Kijelölések megszüntetése</string>
+    <string name="detail_copy_list">Lista küldése</string>
+    <string name="detail_copied_list">Vágólapra másolva</string>
+    <string name="edit_shopping_list">Szerkesztés</string>
+    <string name="details">Részletek \nMinden elemet új sorba</string>
+    <string name="dialog_error">Név nem lehet üres</string>
+    <string name="main_change_night_day">Sötét téma</string>
+</resources>

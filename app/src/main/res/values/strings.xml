@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Shopping</string>
+    <string name="title_activity_list">Shopping Helper</string>
+    <string name="name">Name</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="details">Details \nStart a new line for each item</string>
+    <string name="detail_unselect_all">Unselect all</string>
+    <string name="edit_shopping_list">Edit Shopping List</string>
+    <string name="detail_copy_list">Send list</string>
+    <string name="detail_copied_list">Copied to clipboard</string>
+    <string name="dialog_error">Name cannot be empty</string>
+    <string name="main_change_night_day">Dark theme</string>
+</resources>

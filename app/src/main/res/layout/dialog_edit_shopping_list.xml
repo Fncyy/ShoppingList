@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dip"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+    <EditText
+        android:id="@+id/editName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/name"
+        android:inputType="textCapWords"
+        android:textSize="24sp" />
+
+    <EditText
+        android:id="@+id/editDetail"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:gravity="top"
+        android:hint="@string/details"
+        android:inputType="textMultiLine|textCapSentences"
+        android:scrollbars="vertical"
+        android:textAlignment="gravity" />
+
+</LinearLayout>

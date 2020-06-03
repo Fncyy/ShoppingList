@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorRemove">#DDDDDD</color>
+    <color name="colorText">#DDDDDD</color>
+    <color name="colorItemBackground">#111111</color>
+</resources>
